@@ -17,6 +17,9 @@ for char in str:
        break
    else:
        print("This is a consonant")
-
+git status
+git add "For Loop.py"
+git commit -m "Update for loop code"
+git push origin main
     
 
